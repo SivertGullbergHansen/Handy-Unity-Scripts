@@ -116,7 +116,7 @@ public class add_dynamic_bone : MonoBehaviour
                 }
         }
         else
-            Debug.LogError("Are you sure you are ready to add the scripts? (Checkmark the box that says Check When Ready at the bottom of the script)");
+            Debug.LogError("Are you sure you are ready to add the scripts? (Check the box that says Check When Ready at the bottom of the script)");
     }
 
     [ContextMenu("Click here to remove the script(s) from the bone(s)")]
