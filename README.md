@@ -2,7 +2,8 @@
 Some scripts that I've made for unity that simplifies workflow.
 
 ## Add_Dynamic_Bone.cs:
-Script that adds dynamicbone to array of objects.
+Script that adds the dynamic bone script to array of objects.
+Made for Dynamic Bone version 1.2.2
 
 This script adds the dynamic-bone script to an array of objects. Contains all the parameters that the dynamic bone script includes.
 
