@@ -2,6 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Script written by Sivert Gullberg Hansen
+// Dynamic Bone Version 1.2.2
+// https://github.com/SivertGullbergHansen
+// https://sivert.xyz
 public class add_dynamic_bone : MonoBehaviour
 {
     [Tooltip(
