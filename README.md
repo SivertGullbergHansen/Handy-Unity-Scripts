@@ -7,6 +7,8 @@ Made for Dynamic Bone version 1.2.2
 
 This script adds the dynamic-bone script to an array of objects. Contains all the parameters that the dynamic bone script includes.
 
+🎥Video Preview: https://youtu.be/dZWyMJzwZr0
+
 How to use: 
 1. Add the script to any gameobject in your scene.
 2. Populate the Array at the top of the script with the gameobjects you want to add the dynamic bone script component to.
