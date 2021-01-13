@@ -1,9 +1,8 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 // Script written by Sivert Gullberg Hansen
-// Dynamic Bone Version 1.2.2
+// Made for Dynamic Bone Version 1.2.2
 // https://github.com/SivertGullbergHansen
 // https://sivert.xyz
 public class add_dynamic_bone : MonoBehaviour
@@ -80,8 +79,6 @@ public class add_dynamic_bone : MonoBehaviour
     [Space(10)] public bool CheckWhenReady;
 
     [ContextMenu("Click here to add the script(s) to the bone(s)")]
-
-    // Start is called before the first frame update
     private void AddScript()
     {
         if (CheckWhenReady)
