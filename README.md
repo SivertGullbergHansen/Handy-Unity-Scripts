@@ -15,6 +15,6 @@ How to use:
 3. Double-check all your settings and check the box at the bottom that says "Check When Ready".
 4. Right click the script-name in your inspector-panel and select "Click here to add the script(s) to the bone(s)". Your selected bones will now have the script-component added with all the values you selected.
 
-To undo, simply right click the script-name in your inspector-panel and select "Click here to remove the script(s) to the bone(s)".
+To undo, simply right click the script-name in your inspector-panel and select "Click here to remove the script(s) from the bone(s)".
 
-You can also click the three small dots to the right of the script-name to open the same context menu as right clicking.
+You can also click the three small dots to the right of the script-name to open the context menu.
