@@ -7,10 +7,11 @@ Script that adds dynamicbone to array of objects.
 This script adds the dynamic-bone script to an array of objects. Contains all the parameters that the dynamic bone script includes.
 
 How to use: 
-Add the script to any gameobject in your scene.
-Populate the Array at the top of the script with the gameobjects you want to add the dynamic bone script component to.
-Double-check all your settings and check the box at the bottom that says "Check When Ready".
-Right click the script-name in your inspector-panel and select "Click here to add the script(s) to the bone(s)".
+1. Add the script to any gameobject in your scene.
+2. Populate the Array at the top of the script with the gameobjects you want to add the dynamic bone script component to.
+3. Double-check all your settings and check the box at the bottom that says "Check When Ready".
+4. Right click the script-name in your inspector-panel and select "Click here to add the script(s) to the bone(s)".
+Your root-hair-bones will now have the script-component added with all the values you selected.
 
 To undo, simply right click the script-name in your inspector-panel and select "Click here to remove the script(s) to the bone(s)".
 
