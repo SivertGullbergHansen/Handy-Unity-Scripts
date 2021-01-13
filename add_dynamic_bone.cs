@@ -127,7 +127,7 @@ public class add_dynamic_bone : MonoBehaviour
         else
             for (int i = 0; i < m_bonesToAddDynamicScriptTo.Length; i++)
             {
-                Destroy(m_bonesToAddDynamicScriptTo[i].GetComponent<DynamicBone>());
+                DestroyImmediate(m_bonesToAddDynamicScriptTo[i].GetComponent<DynamicBone>());
             }
     }
 }
