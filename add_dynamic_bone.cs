@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -119,7 +119,7 @@ public class add_dynamic_bone : MonoBehaviour
             Debug.LogError("Are you sure you are ready to add the scripts? (Checkmark the box that says Check When Ready at the bottom of the script)");
     }
 
-    [ContextMenu("Click here to remove the script(s) to the bone(s)")]
+    [ContextMenu("Click here to remove the script(s) from the bone(s)")]
     private void RemoveScripts()
     {
         if (m_bonesToAddDynamicScriptTo.Length == 0)
