@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // Script written by Sivert Gullberg Hansen
-// Made for Dynamic Bone Version 1.2.2
+// Made for Dynamic Bone Version 1.2.2 https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743
 // https://github.com/SivertGullbergHansen
 // https://sivert.xyz
 public class add_dynamic_bone : MonoBehaviour
