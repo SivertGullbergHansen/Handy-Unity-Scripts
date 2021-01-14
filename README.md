@@ -17,6 +17,7 @@ How to use:
 4. Press the button close to the bottom of the tool-window that says "Add script to bone(s)".
 
 Extra:
+
 5. To update every script added to the bones, press the button that says "Update bone(s)".
 6. To copy the settings from the bones to the tool, press the button that says "Copy settings from bone(s)".
 7. To remove the dynamic bone script from the bones, press the button that says "Remove script from bone(s)".
