@@ -8,7 +8,8 @@ Made for Dynamic Bone version 1.2.2
 This script adds the dynamic-bone script to an array of objects. Contains all the parameters that the dynamic bone script includes.
 
 🎥Video Preview: https://youtu.be/dZWyMJzwZr0
-Update video for v1.2: https://youtu.be/eMA8fxI9Lww
+
+🆕Update video for v1.2: https://youtu.be/eMA8fxI9Lww
 
 ### How to use: 
 
