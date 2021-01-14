@@ -8,13 +8,15 @@ Made for Dynamic Bone version 1.2.2
 This script adds the dynamic-bone script to an array of objects. Contains all the parameters that the dynamic bone script includes.
 
 🎥Video Preview: https://youtu.be/dZWyMJzwZr0
+Update video for v1.2: https://youtu.be/eMA8fxI9Lww
 
 How to use: 
-1. Add the script to any gameobject in your scene.
+1. Open the tool by going to Tools → Sivert → "Dynamic Bone Adder".
 2. Populate the Array at the top of the script with the gameobjects you want to add the dynamic bone script component to.
-3. Double-check all your settings and check the box at the bottom that says "Check When Ready".
-4. Right click the script-name in your inspector-panel and select "Click here to add the script(s) to the bone(s)". Your selected bones will now have the script-component added with all the values you selected.
+3. Change settings as you wish.
+4. Press the button close to the bottom of the tool-window that says "Add script to bone(s)".
 
-To undo, simply right click the script-name in your inspector-panel and select "Click here to remove the script(s) from the bone(s)".
-
-You can also click the three small dots to the right of the script-name to open the context menu.
+Extra:
+5. To update every script added to the bones, press the button that says "Update bone(s)".
+6. To copy the settings from the bones to the tool, press the button that says "Copy settings from bone(s)".
+7. To remove the dynamic bone script from the bones, press the button that says "Remove script from bone(s)".
