@@ -2,8 +2,6 @@ using System;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
-using VRM;
-using Object = UnityEngine.Object;
 
 // Script written by Sivert Gullberg Hansen
 // Version 1.2 [14-Jan-21]
