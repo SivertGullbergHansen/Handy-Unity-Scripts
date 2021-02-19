@@ -3,7 +3,7 @@ Some scripts that I've made for unity that simplifies workflow.
 
 **All scripts should be placed in the Assets folder of your project. I would recommend collecting them in a folder called "Plugins".**
 
-## Add_Dynamic_Bone.cs:
+## 🍓Add_Dynamic_Bone.cs:
 Script that adds the dynamic bone script to array of objects.
 
 Made for Dynamic Bone version 1.2.2
