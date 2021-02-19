@@ -8,6 +8,7 @@ using UnityEngine;
 // Made for Dynamic Bone Version 1.2.2
 // https://github.com/SivertGullbergHansen
 // https://sivert.xyz
+// Description: This script adds the dynamic-bone-script component to every gameobject that is present in the array of gameobjects. Check out this youtube video to learn how to use it: https://youtu.be/eMA8fxI9Lww
 public class add_dynamic_bone : EditorWindow
 {
     private bool ready = false;
