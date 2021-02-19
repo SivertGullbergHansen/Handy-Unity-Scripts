@@ -36,7 +36,7 @@ Made for Unity 2020+ (Most likely works with older unity-versions)
 
 Current version: 1.1
 
-🎥Video Preview: https://youtu.be/dZWyMJzwZr0
+🎥Video Preview: https://youtu.be/Yxr0_egPvcI
 
 ### How to use: 
 
