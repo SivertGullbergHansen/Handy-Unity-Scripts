@@ -6,7 +6,7 @@ using UnityEngine.Audio;
 // Made for Unity Version 2020+ (Most likely backwards compatible)
 // https://github.com/SivertGullbergHansen
 // https://sivert.xyz
-// Description: This script spawns gameobjects during runtime inside a set area-space and plays a random audioclip taken from the array of audioclips inside the script component.
+// Description: This script spawns gameobjects during runtime inside a set area-space and plays a random audioclip taken from the array of audioclips inside the script component. Tutorial here: https://youtu.be/Yxr0_egPvcI
 public class playRandomSound : MonoBehaviour
 {
     [Header("Spawn Settings")]
