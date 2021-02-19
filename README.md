@@ -28,3 +28,25 @@ This script adds the dynamic-bone script to an array of objects. Contains all th
 5. To update every script added to the bones, press the button that says "Update bone(s)".
 6. To copy the settings from the bones to the tool, press the button that says "Copy settings from bone(s)".
 7. To remove the dynamic bone script from the bones, press the button that says "Remove script from bone(s)".
+
+## 🍓 playRandomSound.cs:
+Script that spawns an empty gameobject during runtime with an audiosource attached, inside of an area, by a timer.
+
+Made for Unity 2020+ (Most likely works with older unity-versions)
+
+Current version: 1.1
+
+🎥Video Preview: https://youtu.be/dZWyMJzwZr0
+
+### How to use: 
+
+1. Create an empty gameobject.
+2. Add the script-component "Play Random Sound".
+3. Adjust the Size, Timing and AudioSource-settings in the script-component.
+4. Add your audioclips to the Clips-array.
+5. Hit play and test out your settings 😊.
+
+### Extra:
+
+6. You can edit the settings on the go whilst in runtime. Meaning you do not have to adjust settings before hitting play.
+7. Adjusting the settings during runtime also applies to changing the array of clips playing.
