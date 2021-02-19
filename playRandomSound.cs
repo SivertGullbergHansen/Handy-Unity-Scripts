@@ -1,5 +1,11 @@
 using UnityEngine;
 
+// Script written by Sivert Gullberg Hansen
+// Version 1.0 [19-Feb-21]
+// Made for Unity Version 2020+ (Most likely backwards compatible)
+// https://github.com/SivertGullbergHansen
+// https://sivert.xyz
+// Description: This script spawns gameobjects inside a set area-space and plays a random clip, taken from the array of clips inside the script component.
 public class playRandomSound : MonoBehaviour
 {
     [Header("Spawn Settings")]
